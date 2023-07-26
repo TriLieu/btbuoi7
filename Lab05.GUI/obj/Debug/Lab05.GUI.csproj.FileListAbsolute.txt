@@ -1,0 +1,89 @@
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.exe.config
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.exe
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.pdb
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.dll
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.dll
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.pdb
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.dll.config
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.pdb
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.dll.config
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.Form1.resources
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.exe
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.pdb
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Lab05\Lab05.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.exe.config
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.exe
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.pdb
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.dll
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.dll
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.pdb
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.dll.config
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.pdb
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.dll.config
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.Form1.resources
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.Properties.Resources.resources
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.CopyComplete
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.exe
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.pdb
+C:\Users\Admin\Downloads\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.DangKiChuyenNganh.resources
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.exe.config
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.exe
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.pdb
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.dll
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.dll
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.pdb
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.dll.config
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.pdb
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.dll.config
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.DangKiChuyenNganh.resources
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.Form1.resources
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.exe
+C:\Users\Administrator\Desktop\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.pdb
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.exe
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\Lab05.GUI.pdb
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.pdb
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\Lab05.BUS.dll.config
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.pdb
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\Lab05.DAL.dll.config
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.DangKiChuyenNganh.resources
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.exe
+C:\Users\Admin\OneDrive\Máy tính\Lab05\Lab05.GUI\obj\Debug\Lab05.GUI.pdb
